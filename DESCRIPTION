@@ -1,6 +1,6 @@
 Package: netseg
 Title: Measures of Network Segregation and Homophily
-Version: 1.0-1
+Version: 1.0-2
 Authors@R: 
     person(given = "Michal",
            family = "Bojanowski",
@@ -26,8 +26,8 @@ LazyData: true
 RoxygenNote: 7.2.1
 Suggests: testthat (>= 2.1.0), knitr, rmarkdown, scales
 NeedsCompilation: no
-Packaged: 2022-08-25 11:06:14 UTC; mbojan
+Packaged: 2023-06-30 22:12:59 UTC; mbojan
 Author: Michal Bojanowski [aut, cre] (<https://orcid.org/0000-0001-7503-852X>)
 Maintainer: Michal Bojanowski <michal2992@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-08-25 12:10:06 UTC
+Date/Publication: 2023-07-01 07:40:02 UTC
